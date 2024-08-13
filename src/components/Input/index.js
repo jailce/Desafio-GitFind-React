@@ -1,8 +1,8 @@
 import './styles.css';
 
-const Input = () => {
+const Input = ({name}, {value}, {onChange}) => {
     return (
-        <input name='usuario' placeholder="@username" />
+        <input name={name} value={value} onChange={onChange} placeholder="@username" />
     
       
     );

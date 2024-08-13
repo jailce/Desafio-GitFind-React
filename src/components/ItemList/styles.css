@@ -1,0 +1,15 @@
+.item-list span {
+  font-size: 24px;
+  color: #539bf5;
+  font-weight: 700;
+}
+
+.item-list p {
+color: #999;
+font-size: 16px;
+
+}
+.item-list hr {
+
+margin: 20px 0;
+}

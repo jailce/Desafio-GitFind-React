@@ -1,8 +1,8 @@
 import './styles.css';
 
-const Button = () => {
+const Button = ({onClick}) => {
     return (
-        <button>
+        <button onClick={onClick}  >
            Buscar
         </button>
     );

@@ -1,8 +1,6 @@
 input {
-    width: 60%;
+    width: 100%;
     min-height: 42px;
-    flex-shrink: 0;
- 
     line-height: 1px;
     border-radius: 50px;
     border: 2px solid #999;
